@@ -1,6 +1,2 @@
-Thinh.1553032@users.noreply.github.com
+1553032@users.noreply.github.com
 
-This is test change for conflict
-
-Coding 123 !
-Try it !
